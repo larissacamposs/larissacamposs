@@ -10,6 +10,7 @@ Atualmente em transição de carreira com foco em **Análise de Dados**, estou m
 - 📈 Estatística aplicada a dados  
 - 📁 Google Sheets  
 - 🔧 Git e GitHub 
+
 🎓 Estudante do curso **EBA - Estatística do Básico ao Avançado**, onde estou construindo uma base sólida para atuar com dados no mundo real.
 
 ---
